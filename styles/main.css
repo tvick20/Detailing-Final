@@ -105,7 +105,7 @@ th {
 /* Set fixed widths for columns */
 th:nth-child(1),
 td:nth-child(1) {
-  width: 30%; /* Adjust the width as needed */
+  width: 28%; /* Adjust the width as needed */
 }
 
 th:nth-child(2),
@@ -120,7 +120,7 @@ td:nth-child(3) {
 
 th:nth-child(4),
 td:nth-child(4) {
-  width: 12%; /* Adjust the width as needed */
+  width: 14%; /* Adjust the width as needed */
 }
 
 h1,
